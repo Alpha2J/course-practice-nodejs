@@ -1,0 +1,27 @@
+{
+  "name": "course-practice-nodejs",
+  "version": "1.0.0",
+  "description": "![Code Size](https://img.shields.io/github/languages/code-size/hellooo-stack/halo-commons-nodejs) ![NPM](https://img.shields.io/npm/v/@hellooo-stack/halo-commons) ![GitHub license](https://img.shields.io/github/license/hellooo-stack/halo-commons-nodejs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alpha2J/course-practice-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alpha2J/course-practice-nodejs/issues"
+  },
+  "homepage": "https://github.com/Alpha2J/course-practice-nodejs#readme",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "xlsx": "^0.15.1",
+    "yargs": "^14.0.0",
+    "dateformat": "^3.0.3",
+    "json2xls": "^0.1.2"
+  }
+}
